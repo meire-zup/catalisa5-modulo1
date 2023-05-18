@@ -1,0 +1,12 @@
+Algoritmo para ir ao trabalho 
+
+Levantar da cama
+Ir ao banheiro
+Realizar higiene bucal
+Tomar banho
+Colocar roupa
+Tomar cafe
+Escovar dentes
+Sair de casa
+Caminhar por 800 metros
+Entrar no trabalho
